@@ -2,8 +2,6 @@
 
 This repository contains the implementation and analysis of multiple Reinforcement Learning based algorithms. The repository contains three types of documents: **Questions**, **Solutions** and **Jupyter Notebooks**, segregated in three folders: **Assignment-1**, **Midsem** and **Assignment-3**. The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, Copy, Gym and PyTorch (Deep RL). All of the above was done as a part of the CS698R-Deep Reinforcement Learning course instructed by Prof Ashutosh Modi at IIT Kanpur (Fall-2021). 
 
-## Assignment - 1
-
 ## [Assignment-1](/Assignment-1)
 
 Contains the implementation and analysis of:  
@@ -27,7 +25,7 @@ c) Comparison of strategies (Two and Ten-armed Bandit environments)
 &emsp;	ii) Regret  
 &emsp;	iii) Percentage optimal action  
 
-### Midsem  
+## [Midsem](/Midsem)
 
 Contains the implementation and analysis of: 
 
@@ -44,7 +42,7 @@ c) Comparison of strategies
 &emsp;	i) Averaged value approximations over time  
 &emsp;	ii) Target Sequence  
 
-## Assignment - 3  
+## [Assignment-3](/Assignment-3)
 
 Contains the implementation and analysis of:  
 
