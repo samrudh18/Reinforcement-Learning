@@ -1,6 +1,6 @@
 # CS698R-Deep-Reinforcement-Learning
 
-This repository contains the implementation and analysis of multiple Reinforcement Learning based algorithms. The repository contains three types of documents: **Questions**, **Solutions** and **Jupyter Notebooks**, segregated in three folders: **Assignment-1**,**Midsem** and **Assignment-3** . The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, Copy, Gym and PyTorch (Deep RL). All of the above was done as a part of the CS698R-Deep Reinforcement Learning course instructed by Prof Ashutosh Modi at IIT Kanpur (Fall-2021). 
+This repository contains the implementation and analysis of multiple Reinforcement Learning based algorithms. The repository contains three types of documents: **Questions**, **Solutions** and **Jupyter Notebooks**, segregated in three folders: **Assignment-1**, **Midsem** and **Assignment-3**. The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, Copy, Gym and PyTorch (Deep RL). All of the above was done as a part of the CS698R-Deep Reinforcement Learning course instructed by Prof Ashutosh Modi at IIT Kanpur (Fall-2021). 
 
 ## Assignment - 1
 
